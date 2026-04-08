@@ -35,5 +35,5 @@ SVM achieved the highest accuracy and provided better generalization compared to
 - NumPy
 - Matplotlib
 
-## 🚀 Outcome
+##  Outcome
 Successfully built and compared multiple ML models to predict customer behavior.
